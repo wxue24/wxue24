@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wxue24
-- 👀 I’m interested in full stack development
+- 👀 I’m experienced in full stack development
 - 🌱 I’m currently learning about blockchain and machine learning
 - 💞️ I’m always looking for cool projects to work on!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wxue/) 
