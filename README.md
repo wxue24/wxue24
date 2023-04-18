@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wxue24
+- 👋 Hi, I’m Will
 - 👀 I’m experienced in full stack development
 - 🌱 I’m interested in AI and blockchain
 - 💞️ I’m always looking for cool projects to work on!
